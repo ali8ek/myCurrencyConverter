@@ -1,0 +1,29 @@
+/* body{
+    background: url(../img/usd.jpg);
+} */
+
+.wrapper{
+    width: 800px;
+    margin: 0 auto;
+}
+.converter{
+    text-align: center;
+}
+#inputdol{
+    outline: none;
+    width: 150px;
+    height: 20px;
+}
+.result{
+    font-size: 30px;
+}
+.bg{
+    width: 800px;
+    height: 336px;
+    margin: 0 auto;
+    background: url(../img/DOLLAR-1.jpg);
+}
+h1{
+    font-size: 50px;
+    color: rgb(81, 80, 88);
+}
